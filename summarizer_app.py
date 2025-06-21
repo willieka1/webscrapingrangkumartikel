@@ -7,6 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1xVLWKI2mteHMHaYk-kVgS3HljnEzM8nP
 """
 
+git add requirements.txt
+git commit -m "Fix dependency: added beautifulsoup4"
+git push
+
 import streamlit as st
 import streamlit as st
 import requests
