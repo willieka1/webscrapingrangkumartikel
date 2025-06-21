@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1xVLWKI2mteHMHaYk-kVgS3HljnEzM8nP
 """
 
-pip install streamlit requests beautifulsoup4 groq
-
 import streamlit as st
 import streamlit as st
 import requests
