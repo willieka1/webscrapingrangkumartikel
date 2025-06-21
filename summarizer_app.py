@@ -12,6 +12,10 @@ Original file is located at
 
 pip install requests beautifulsoup4 pandas python-dotenv groq
 
+pip install streamlit
+
+%pip install streamlit requests beautifulsoup4 groq
+
 import streamlit as st
 import streamlit as st
 import requests
