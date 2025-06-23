@@ -20,7 +20,7 @@ st.set_page_config(page_title="Web Article Summarizer", layout="centered")
 # FUNGSI SCRAPING & SUMMARIZING
 # ============================
 
-groq_api_key = "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"
+groq_api_key = "Your API KEY"
 client = Groq(api_key=groq_api_key)
 
 def get_cleaned_text_from_url(url: str) -> str:
